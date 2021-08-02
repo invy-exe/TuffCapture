@@ -1,4 +1,6 @@
-# -*- coding: utf-8 -*-
+#invy.exe
+#langur.exe
+
 
 from PyQt5 import QtCore,QtGui,QtWidgets
 from PyQt5.QtWidgets import *
